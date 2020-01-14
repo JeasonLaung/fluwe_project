@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
             RaisedButton(
               child: Text('分享'),
               onPressed: () {
-                share('https://baidu.com', subject: 'image');
+                share('https://baidu.com',);
               },
             ),
           ]

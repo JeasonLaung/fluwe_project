@@ -68,7 +68,7 @@ dependencies:
   permission_handler: ^4.1.0
 
   # 微信库
-  fluwx: ^1.2.1+1
+  # fluwx: ^1.2.1+1
 
 
 

@@ -1,7 +1,7 @@
 
 import 'dart:io';
 
-import 'package:fluwx/fluwx.dart' as fluwx;
+// import 'package:fluwx/fluwx.dart' as fluwx;
 import './pages/home_page.dart';
 
 import './common/fluwe.dart';
@@ -26,7 +26,10 @@ void main() async{
   // }
   // /// 微信注册，可以放后面，不急用
   // fluwx.registerWxApi(
-  //   appId: appId
+  //   // appId: 'wx300fea7d67c15d0f',
+  //   doOnIOS: false,
+  //   doOnAndroid: false,
+  //   // universalLink: 'https://v2.mputao.com/'
   // );
 }
 
